@@ -89,7 +89,7 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-111111?style=flat-square&logo=githubactions&logoColor=F5D77A" alt="GitHub Actions"/>
 <img src="https://img.shields.io/badge/Lua-111111?style=flat-square&logo=lua&logoColor=F5D77A" alt="Lua"/>
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=F5D77A" alt="Python"/>
-<img src="https://img.shields.io/badge/Networking-111111?style=flat-square&logo= Wireshark&logoColor=F5D77A" alt="Networking"/>
+<img src="https://img.shields.io/badge/Networking-111111?style=flat-square&logo=wireshark&logoColor=F5D77A" alt="Networking"/>
 
 </div>
 
@@ -118,6 +118,6 @@
   <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-B8860B?style=for-the-badge&logo=github&logoColor=111111&labelColor=F5D77A" alt="Explore all projects"/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0: B8860B,50:1A1608,100:080808&height=100&section=footer" width="100%" alt="Gold footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8860B,50:1A1608,100:080808&height=100&section=footer" width="100%" alt="Gold footer"/>
 
 </div>
