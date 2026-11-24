@@ -59,7 +59,15 @@
 <a href="https://github.com/mengxianbo/warp-openwrt">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mengxianbo&repo=warp-openwrt&theme=dark&bg_color=0D0D0D&title_color=F5D77A&icon_color=B8860B&text_color=E6E6E6&border_color=8A6A1F" alt="WARP MASQUE repository card" />
 </a>
+---
 
+## 🚀 WARP-MASQUE
+
+[![GitHub](https://img.shields.io/badge/GitHub-WARP--MASQUE-black?logo=github)](https://github.com/mengxianbo/WARP-MASQUE)
+
+基于 Cloudflare WARP MASQUE 的网络连接项目。
+
+**项目地址：** https://github.com/mengxianbo/WARP-MASQUE
 ### ☁️ Cloudflare WARP MASQUE for OpenWrt
 
 **OpenWrt · Cloudflare WARP MASQUE / Connect-IP · LuCI · SOCKS5 + HTTP CONNECT**
