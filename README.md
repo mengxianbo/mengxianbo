@@ -53,41 +53,14 @@
   <img src="https://img.shields.io/badge/BUILD-GITHUB%20ACTIONS-222222?style=for-the-badge&logo=githubactions&logoColor=F5D77A&labelColor=111111" alt="GitHub Actions"/>
 </a>
 
-
-<div align="center">
-
-<a href="https://github.com/mengxianbo/warp-openwrt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mengxianbo&repo=warp-openwrt&theme=dark&bg_color=0D0D0D&title_color=F5D77A&icon_color=B8860B&text_color=E6E6E6&border_color=8A6A1F" alt="WARP MASQUE repository card" />
-</a>
----
-
-## 🚀 WARP-MASQUE
+### 🚀 WARP-MASQUE
 
 [![GitHub](https://img.shields.io/badge/GitHub-WARP--MASQUE-black?logo=github)](https://github.com/mengxianbo/WARP-MASQUE)
 
 基于 Cloudflare WARP MASQUE 的网络连接项目。
 
 **项目地址：** https://github.com/mengxianbo/WARP-MASQUE
-### ☁️ Cloudflare WARP MASQUE for OpenWrt
 
-**OpenWrt · Cloudflare WARP MASQUE / Connect-IP · LuCI · SOCKS5 + HTTP CONNECT**
-
-面向 OpenWrt 的 Cloudflare WARP MASQUE 插件，提供中文 LuCI 管理界面，通过 usque 接入 WARP，并提供 SOCKS5 与 HTTP CONNECT 本地代理服务。
-
-- SOCKS5 默认端口：`32500`
-- HTTP CONNECT 默认端口：`32511`
-- LuCI 页面管理注册状态、服务启停及代理监听配置
-- GitHub Actions 自动构建 IPK 安装包
-
-<a href="https://github.com/mengxianbo/warp-openwrt">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-WARP%20MASQUE-F5D77A?style=for-the-badge&logo=github&logoColor=111111&labelColor=111111" alt="View WARP MASQUE" />
-</a>
-<a href="https://github.com/mengxianbo/warp-openwrt/actions">
-  <img src="https://img.shields.io/badge/BUILD-GITHUB%20ACTIONS-222222?style=for-the-badge&logo=githubactions&logoColor=F5D77A&labelColor=111111" alt="WARP MASQUE GitHub Actions" />
-</a>
-
-</div>
-</div>
 
 ---
 
@@ -96,7 +69,6 @@
 | Project | Description |
 |:--|:--|
 | [**openwrt-openrung**](https://github.com/mengxianbo/openwrt-openrung) | OpenRung CLI + LuCI 管理包，OpenWrt x86_64 |
-| [**warp-openwrt**](https://github.com/mengxianbo/warp-openwrt) | Cloudflare WARP MASQUE 插件，提供 SOCKS5 / HTTP CONNECT 代理 |
 | [**nanopi-openwrt**](https://github.com/mengxianbo/nanopi-openwrt) | NanoPi / OpenWrt 相关项目 |
 | [**luci-app-wechatpush**](https://github.com/mengxianbo/luci-app-wechatpush) | OpenWrt LuCI 微信推送应用 |
 | [**cloudflare-api-ddns**](https://github.com/mengxianbo/cloudflare-api-ddns) | Cloudflare API 动态 DNS 项目 |
